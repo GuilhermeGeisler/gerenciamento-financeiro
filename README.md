@@ -67,7 +67,7 @@ O projeto está organizado da seguinte forma:
 1. **Clone o Repositório:**  
    - Clone o repositório para sua máquina local:  
      ```bash
-     git clone [(https://github.com/GuilhermeGeisler/gerenciamento-financeiro)]
+     git clone https://github.com/GuilhermeGeisler/gerenciamento-financeiro
      ```
 
 2. **Execute o Projeto:**  
